@@ -1,0 +1,5 @@
+{"created_at":"2026-10-27T01:17:38+00:00","id":"gpt-6.1-sol-low/extraction","kind":"model","model":"gpt-6.1-sol","name":"gpt-6.1-sol · extrakce / low","reasoning_effort":"low"}
+{"created_at":"2026-10-27T01:22:28+00:00","id":"gpt-6.1-sol-medium/matching","kind":"model","model":"gpt-6.1-sol","name":"gpt-6.1-sol · porovnávání / medium","reasoning_effort":"medium"}
+{"created_at":"2026-10-27T00:56:47+00:00","id":"gpt-6.1-sol-xhigh","kind":"model","model":"gpt-6.1-sol","name":"gpt-6.1-sol-xhigh","reasoning_effort":"xhigh"}
+{"created_at":"2026-10-27T00:56:30+00:00","id":"legacy-codex","kind":"legacy","model":"unknown","name":"Codex · starší kontroly (model neurčen)","reasoning_effort":"unknown"}
+{"created_at":"2026-10-27T00:56:47+00:00","id":"system","kind":"system","model":null,"name":"Systém","reasoning_effort":null}
